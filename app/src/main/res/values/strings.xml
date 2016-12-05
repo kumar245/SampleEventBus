@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EvenBus</string>
+    <string name="title_activity_child">child</string>
+</resources>
